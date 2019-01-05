@@ -13,12 +13,14 @@ Resources are found according to each course module:
 	* Download [WideWorldImportersDW-Full.bak](https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImportersDW-Full.bak) if deploying to on-premises SQL Server 2016 SP1 (or later)
 	* Download [WideWorldImportersDW-Standard.bacpac](https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImportersDW-Standard.bacpac) if deploying to 'Standard' tier Azure SQL Database
 	* Download [WideWorldImportersDW-Full.bacpac](https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImportersDW-Full.bacpac) if deploying to 'Premium' tier Azure SQL Database
- * ['Bad Model' SQL Script](https://github.com/Jim-Kay/power-bi-quick-insights-qna/blob/master/Simplifying_Data_Analysis_with_Q%26A_and_Quick_Insights/WWI_BadModel.sql)
-    * Run this against the WideWorldImportersDW database to create a 'BadModel' schema plus several views used in the demo.
- * ['Bad Model' Power BI Template](https://github.com/Jim-Kay/power-bi-quick-insights-qna/blob/master/Simplifying_Data_Analysis_with_Q%26A_and_Quick_Insights/WWI_BadModel.pbit)
-    * Once the 'BadModel' schema and views have been added, open this template in Power BI Desktop Version: 2.65.5313.841 (December 2018) or later
-	* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
- 
+ * ['Bad Model' Zip File](https://github.com/Jim-Kay/power-bi-quick-insights-qna/raw/master/Simplifying_Data_Analysis_with_Q%26A_and_Quick_Insights/WWI_BadModel.zip)
+    * Contains the following files:
+		##### 'Bad Model' SQL Script
+		* Run this against the WideWorldImportersDW database to create a 'BadModel' schema plus several views used in the demo.
+		##### 'Bad Model' Power BI Template (.pbit)
+		* Once the 'BadModel' schema and views have been added, open this template in Power BI Desktop Version: 2.65.5313.841 (December 2018) or later
+		* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
+		 
  #### Additional Information
    * [Power BI Embedded](http://bit.ly/PowerBI-Embedded)
    
