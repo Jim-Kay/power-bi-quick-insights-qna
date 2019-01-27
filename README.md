@@ -19,9 +19,9 @@ Resources are found according to each course module:
 	* Download [WideWorldImportersDW-Full.bacpac](https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImportersDW-Full.bacpac) if deploying to 'Premium' tier Azure SQL Database
 	* ['Bad Model' Zip File](https://github.com/Jim-Kay/power-bi-quick-insights-qna/raw/master/Simplifying_Data_Queries_with_Q%26A/WWI_BadModel.zip)
 	* Contains the following files:
-		* 'Bad Model' SQL Script__ (WWI_BadModel.sql)
+		* __'Bad Model' SQL Script__ (WWI_BadModel.sql)
 			* Run this against the WideWorldImportersDW database to create a 'BadModel' schema plus several views used in the demo.
-		* 'Bad Model' Power BI Template__ (WWI_BadModel.pbit)
+		* __'Bad Model' Power BI Template__ (WWI_BadModel.pbit)
 			* Once the 'BadModel' schema and views have been added, open this template in Power BI Desktop Version: 2.65.5313.841 (December 2018) or later
 			* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
 
@@ -38,6 +38,20 @@ Resources are found according to each course module:
 
 ***
 ## Optimizing Data for Q&A by Making Your Data Tidy and Polished
+#### Sample Files for 'WWI Sales' Demo
+* ['WWI Sales' Zip File](https://github.com/Jim-Kay/power-bi-quick-insights-qna/raw/master/Optimizing_Data_for_Q%26A/WWI_Sales.zip)
+	* Contains the following files:
+		* __'Sales' SQL Script__ (pbi_Sales.sql)
+			* Run this against the WideWorldImportersDW database to create a 'pbiSales' schema plus several views used in the demo.
+		* __Initial 'Sales' Power BI Template__ (pbiSales_initial.pbit)
+			* This template simply loads the contents of the pbiSales views into Power BI, and can be used at the start of the demo.
+			* Once the 'pbiSales' schema and views have been added, open this template in Power BI Desktop Version: 2.65.5313.841 (December 2018) or later
+			* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
+		* __Final 'Sales' Power BI Template__ (pbiSales_complete.pbit)
+			* This template can be used to explore the model after all 'tidying' and 'polishing' have been completed.
+			* Once the 'pbiSales' schema and views have been added, open this template in Power BI Desktop Version: 2.65.5313.841 (December 2018) or later
+			* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
+		
 
 ***
 ## Exploring Data with Q&A
