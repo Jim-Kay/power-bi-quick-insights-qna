@@ -18,12 +18,12 @@ Resources are found according to each course module:
 	* Download [WideWorldImportersDW-Standard.bacpac](https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImportersDW-Standard.bacpac) if deploying to 'Standard' tier Azure SQL Database
 	* Download [WideWorldImportersDW-Full.bacpac](https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImportersDW-Full.bacpac) if deploying to 'Premium' tier Azure SQL Database
 	* ['Bad Model' Zip File](https://github.com/Jim-Kay/power-bi-quick-insights-qna/raw/master/Simplifying_Data_Queries_with_Q%26A/WWI_BadModel.zip)
-	* Contains the following files:
-		* __'Bad Model' SQL Script__ (WWI_BadModel.sql)
-			* Run this against the WideWorldImportersDW database to create a 'BadModel' schema plus several views used in the demo.
-		* __'Bad Model' Power BI Template__ (WWI_BadModel.pbit)
-			* Once the 'BadModel' schema and views have been added, open this template in Power BI Desktop Version: 2.65.5313.841 (December 2018) or later
-			* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
+		* Contains the following files:
+		   * __'Bad Model' SQL Script__ (WWI_BadModel.sql)
+			 * Run this against the WideWorldImportersDW database to create a 'BadModel' schema plus several views used in the demo.
+		   * __'Bad Model' Power BI Template__ (WWI_BadModel.pbit)
+			 * Once the 'BadModel' schema and views have been added, open this template in Power BI Desktop Version: 2.65.5313.841 (December 2018) or later
+			 * The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
 
  #### Additional Information
    * [Power BI Embedded](http://bit.ly/PowerBI-Embedded)
