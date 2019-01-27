@@ -1,7 +1,18 @@
-# power-bi-quick-insights-qna
-This repo contains reference materials for the Pluralsight course [Effective Quick Insights and Q&amp;A in Power BI](https://pluralsight.com)
+# Effective Quick Insights and Q&amp;A in Power BI Sample Files
+
+http://bit.ly/ps-qa
+
+This repository contains reference materials for the Pluralsight course [Effective Quick Insights and Q&amp;A in Power BI](https://pluralsight.com)
 
 Resources are found according to each course module:
+* [Simplifying Data Queries with Q&A](#simplifying-data-queries-with-qa)
+* [Simplifying Data Analysis with Quick Insights](#simplifying-data-analysis-with-quick-insights)
+* [Optimizing Data for Q&A by Making your Data Tidy and Polished](#optimizing-data-for-qa-by-making-your-data-tidy-and-polished)
+* [Exploring Data with Q&A](#exploring-data-with-qa)
+* [Mining Data with Minimal Effort Using Quick Insights](#mining-data-with-minimal-effort-using-quick-insights)
+* [Voicing Questions Using Cortana](#voicing-questions-using-cortana)
+* [Enabling Q&A for an On-premises Dataset](#enabling-qa-for-an-on-premises-dataset)
+
 ***
 ## Simplifying Data Queries with Q&A
 #### Suggested Prerequisite Pluralsight Courses:
