@@ -61,7 +61,9 @@ Resources are found according to each course module:
 			* This template can be used to explore the model after all 'tidying' and 'polishing' have been completed.
 			* Once the 'pbiSales' schema and views have been added, open this template in Power BI Desktop Version: 2.65.5313.841 (December 2018) or later
 			* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
-		
+
+#### Checklists
+* [Checklist for Creating 'Tidy' Views](https://gist.github.com/Jim-Kay/2758406ea7146bb7c5ad93f91002f721)
 
 ***
 ## Exploring Data with Q&A
