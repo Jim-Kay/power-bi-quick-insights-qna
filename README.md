@@ -34,7 +34,6 @@ Resources are found according to each course module:
 * Main [Power BI Sample Data](https://docs.microsoft.com/en-us/power-bi/sample-datasets) site
 * Tour of the [Human Resources Sample Dataset](https://docs.microsoft.com/en-us/power-bi/sample-human-resources)
 
- #### Additional Information
 
 ***
 ## Optimizing Data for Q&A by Making Your Data Tidy and Polished
