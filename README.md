@@ -1,4 +1,4 @@
-# Effective Quick Insights and Q&amp;A in Power BI Sample Files
+# Effective Quick Insights and Q&amp;A in Power BI - Resources
 
 http://bit.ly/ps-qa
 
