@@ -63,7 +63,7 @@ Resources are found according to each course module:
 			* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
 
 #### Checklists
-* [Checklist for Creating 'Tidy' Views](https://gist.github.com/Jim-Kay/2758406ea7146bb7c5ad93f91002f721)
+* [Checklist for creating 'Tidy' views](https://gist.github.com/Jim-Kay/2758406ea7146bb7c5ad93f91002f721)
 * [Checklist for creating 'Polished' data models](https://gist.github.com/Jim-Kay/7e1d2037bd27cd17508bf7d49da89c1f)
 
 ***
