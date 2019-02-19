@@ -72,7 +72,7 @@ Resources are found according to each course module:
 ***
 ## Exploring Data with Q&A
 #### Sample Files for 'WWI Sales 2' Demo
-* ['WWI Sales 2' Zip File](https://github.com/Jim-Kay/power-bi-quick-insights-qna/raw/master/Optimizing_Data_for_Q%26A/WWI_Sales.zip)
+* ['WWI Sales 2' Zip File](https://github.com/Jim-Kay/power-bi-quick-insights-qna/raw/master/Exploring_Data_with_Q%26A/WWI_Sales_2.zip)
 	* Contains the following files:
 		* __'Mostly Polished' Power BI Template__ (wwi_pbiSales_mostly_polished.pbit)
 			* This template can be used to explore the model after most 'tidying' and 'polishing' have been completed.
