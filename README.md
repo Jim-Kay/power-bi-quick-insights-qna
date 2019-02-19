@@ -58,7 +58,7 @@ Resources are found according to each course module:
 			* Once the 'pbiSales' schema and views have been added, open this template in Power BI Desktop Version: 2.65.5313.841 (December 2018) or later
 			* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
 		* __Final 'Sales' Power BI Template__ (pbiSales_complete.pbit)
-			* This template can be used to explore the model after all 'tidying' and 'polishing' have been completed.
+			* This template can be used to explore the model after most 'tidying' and 'polishing' have been completed.
 			* Once the 'pbiSales' schema and views have been added, open this template in Power BI Desktop Version: 2.65.5313.841 (December 2018) or later
 			* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
 
@@ -66,8 +66,18 @@ Resources are found according to each course module:
 * [Checklist for creating 'Tidy' views](https://gist.github.com/Jim-Kay/2758406ea7146bb7c5ad93f91002f721)
 * [Checklist for creating 'Polished' data models](https://gist.github.com/Jim-Kay/7e1d2037bd27cd17508bf7d49da89c1f)
 
+#### Additional Information
+* [View the Improvement Request](http://bit.ly/fix-default-summarization) to add an option to not automatically summarize table columns.
+
 ***
 ## Exploring Data with Q&A
+#### Sample Files for 'WWI Sales 2' Demo
+* ['WWI Sales 2' Zip File](https://github.com/Jim-Kay/power-bi-quick-insights-qna/raw/master/Optimizing_Data_for_Q%26A/WWI_Sales.zip)
+	* Contains the following files:
+		* __'Mostly Polished' Power BI Template__ (wwi_pbiSales_mostly_polished.pbit)
+			* This template can be used to explore the model after most 'tidying' and 'polishing' have been completed.
+			* Once the 'pbiSales' schema and views have been added, open this template in Power BI Desktop Version: 2.65.5313.841 (December 2018) or later
+			* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
 
 ***
 ## Mining Data with Minimal Effort Using Quick Insights
