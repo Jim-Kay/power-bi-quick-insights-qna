@@ -81,6 +81,26 @@ Resources are found according to each course module:
 
 ***
 ## Mining Data with Minimal Effort Using Quick Insights
+#### Sample Data Sources for Slides
+* [Contoso Sales for Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=46801)
+* [Power BI Desktop Samples from Microsoft](https://github.com/Microsoft/powerbi-desktop-samples)
+* [Summer Olympics - Linguistic Schema Sample](https://go.microsoft.com/fwlink/?linkid=871858) (Based on [this](https://powerbi.microsoft.com/en-us/blog/editing-q-a-linguistic-schemas/) article)
+* [Obvience Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
+	* [Customer Profitability](https://docs.microsoft.com/en-us/power-bi/sample-customer-profitability)
+	* [IT Spend Analysis](https://docs.microsoft.com/en-us/power-bi/sample-it-spend)
+	* [Human Resources](https://docs.microsoft.com/en-us/power-bi/sample-human-resources)
+	* [Opportunity Analysis](https://docs.microsoft.com/en-us/power-bi/sample-opportunity-analysis)
+	* [Procurement Analysis](https://docs.microsoft.com/en-us/power-bi/sample-procurement)
+	* [Retail Analysis](https://docs.microsoft.com/en-us/power-bi/sample-retail-analysis)
+	* [Sales and Marketing](https://docs.microsoft.com/en-us/power-bi/sample-sales-and-marketing)
+	* [Supplier Quality](https://docs.microsoft.com/en-us/power-bi/sample-supplier-quality)
+* [Power BI Python Samples](https://powerbi.microsoft.com/en-us/blog/python-visualizations-in-power-bi-service/) (Based on the UC Irvine [Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset))
+* [Will Thompson's Destiny PVP Sample](http://blogs.catapultsystems.com/lclark/archive/2016/04/08/microsoft-data-insights-summit-session-review-will-thompsons-15-weird-tricks-power-bi-desktop-session/) from the Microsoft Data Insights Summit in 2016
+	
+#### Additional Information
+* [End User Insight Types](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-insight-types)
+* [Explanation of 'Quick Insights' mechanics by Microsoft Research](https://www.microsoft.com/en-us/research/project/quickinsights)
+* [Examples of Misleading Graphs](https://www.statisticshowto.datasciencecentral.com/misleading-graphs)
 
 ***
 ## Voicing Questions Using Cortana
