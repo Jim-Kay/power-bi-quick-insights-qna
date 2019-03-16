@@ -96,6 +96,7 @@ Resources are found according to each course module:
 	* [Supplier Quality](https://docs.microsoft.com/en-us/power-bi/sample-supplier-quality)
 * [Power BI Python Samples](https://powerbi.microsoft.com/en-us/blog/python-visualizations-in-power-bi-service/) (Based on the UC Irvine [Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset))
 * [Will Thompson's Destiny PVP Sample](http://blogs.catapultsystems.com/lclark/archive/2016/04/08/microsoft-data-insights-summit-session-review-will-thompsons-15-weird-tricks-power-bi-desktop-session/) from the Microsoft Data Insights Summit in 2016
+* [Will Thompson's Article on the Gartner bakeoff - Opioid Crisis Investigation](https://powerbi.microsoft.com/en-us/blog/building-our-report-on-the-opioid-crisis-for-the-gartner-bakeoff/)
 	
 #### Additional Information
 * [End User Insight Types](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-insight-types)
