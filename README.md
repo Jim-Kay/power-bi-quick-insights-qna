@@ -120,6 +120,9 @@ Resources are found according to each course module:
 			* Open this template in Power BI Desktop Version: 2.67.5404.801 (March 2019) or later
 			* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
 
+#### Additional Information
+* [Troubleshooting Steps for Cortana Integration](https://docs.microsoft.com/en-us/power-bi/service-cortana-troubleshoot)
+* [Cortana Troubleshooting Tool](https://app.powerbi.com/cortana/test)
 
 ***
 ## Enabling Q&A for an On-premises Dataset
