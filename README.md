@@ -102,9 +102,24 @@ Resources are found according to each course module:
 * [End User Insight Types](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-insight-types)
 * [Explanation of 'Quick Insights' mechanics by Microsoft Research](https://www.microsoft.com/en-us/research/project/quickinsights)
 * [Examples of Misleading Graphs](https://www.statisticshowto.datasciencecentral.com/misleading-graphs)
+* [Finding Clusters using the Scatter Chart in Power BI](http://bit.ly/power-bi-clusters)
 
 ***
 ## Voicing Questions Using Cortana
+#### Sample Files for 'Cortana Answer Card' Demo
+* ['WWI Sales 3' Zip File](https://github.com/Jim-Kay/power-bi-quick-insights-qna/raw/master/Voicing_Questions_with_Cortana/WWI_Sales_3.zip)
+	* Contains the following files:
+		* __'Cortana Answer Card Initial' Power BI Template__ (WWI Sales 3 - Cortana Initial.pbit)
+			* This template will connect to the 'Tidy and Polished' WWI Sales database created earlier
+			* Several reports have been added which are ready to be enabled for Cortana integration
+			* Open this template in Power BI Desktop Version: 2.67.5404.801 (March 2019) or later
+			* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
+		* __'Cortana Answer Card Final' Power BI Template__ (WWI Sales 3 - Cortana Final.pbit)
+			* This template will connect to the 'Tidy and Polished' WWI Sales database created earlier
+			* All reports have been fully configured to work with Cortana
+			* Open this template in Power BI Desktop Version: 2.67.5404.801 (March 2019) or later
+			* The template will prompt you for your database instance name and the name you gave the WideWorldImportersDW database.
+
 
 ***
 ## Enabling Q&A for an On-premises Dataset
