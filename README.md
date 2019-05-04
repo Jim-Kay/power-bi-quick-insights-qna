@@ -17,12 +17,12 @@ Resources are found according to each course module:
 ***
 ## Simplifying Data Queries with Q&A
 #### Suggested Prerequisite Pluralsight Courses:
-* [Getting Started with Power BI](http://bit.ly/getting-started-power-bi) by Stacia Misner Varga
+* [Getting Started with Power BI](http://bit.ly/getting-started-power-bi) by Stacia Varga
 * [Getting Started with Power BI for Business Professionals](http://bit.ly/getting-started-power-bi-business-professionals) by Ben Howard
 
 #### Obvience Sample Dataset Information
-* Main [Power BI Sample Data](https://docs.microsoft.com/en-us/power-bi/sample-datasets) site
-* Tour of the [Customer Profitability Sample](https://docs.microsoft.com/en-us/power-bi/sample-customer-profitability)
+* Main [Power BI Sample Data](http://bit.ly/Power-BI-Samples) site
+* Tour of the [Customer Profitability Sample](http://bit.ly/tour-customer-profitability)
 
 #### Sample Files for 'Bad Model' Demo
 * [Wide World Importers](http://bit.ly/WideWorldImporters) download site
@@ -43,8 +43,8 @@ Resources are found according to each course module:
 ***
 ## Simplifying Data Analysis with Quick Insights
 #### Obvience Sample Dataset Information
-* Main [Power BI Sample Data](https://docs.microsoft.com/en-us/power-bi/sample-datasets) site
-* Tour of the [Human Resources Sample Dataset](https://docs.microsoft.com/en-us/power-bi/sample-human-resources)
+* Main [Power BI Sample Data](http://bit.ly/Power-BI-Samples) site
+* Tour of the [Human Resources Sample Dataset](http://bit.ly/sample-human-resources)
 
 
 ***
@@ -66,7 +66,7 @@ Resources are found according to each course module:
 #### Checklists
 * [Checklist for creating 'Tidy' views](https://gist.github.com/Jim-Kay/2758406ea7146bb7c5ad93f91002f721)
 * [Checklist for creating 'Polished' data models](https://gist.github.com/Jim-Kay/7e1d2037bd27cd17508bf7d49da89c1f)
-* [Really nice Checklist from Melissa Coates (@SQLChick)](https://dennyglee.com/2012/12/08/yahoo-24tb-ssas-big-data-case-study-slides/) (which I found after I made my checklist :)
+* [Really nice Checklist from Melissa Coates (@SQLChick)](http://bit.ly/sqlchick-checklist) (which I found after I made my checklist :)
 
 #### Additional Information
 * [View the Improvement Request](http://bit.ly/fix-default-summarization) to add an option to not automatically summarize table columns.
@@ -97,7 +97,7 @@ Resources are found according to each course module:
 	* [Sales and Marketing](https://docs.microsoft.com/en-us/power-bi/sample-sales-and-marketing)
 	* [Supplier Quality](https://docs.microsoft.com/en-us/power-bi/sample-supplier-quality)
 * [Power BI Python Samples](https://powerbi.microsoft.com/en-us/blog/python-visualizations-in-power-bi-service/) (Based on the UC Irvine [Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset))
-* [Will Thompson's Destiny PVP Sample](http://blogs.catapultsystems.com/lclark/archive/2016/04/08/microsoft-data-insights-summit-session-review-will-thompsons-15-weird-tricks-power-bi-desktop-session/) from the Microsoft Data Insights Summit in 2016
+* [Will Thompson's Destiny PVP Sample](https://www.youtube.com/watch?v=d2bZpNZ6uIA) from the Microsoft Data Insights Summit in 2016
 * [Will Thompson's Article on the Gartner bakeoff - Opioid Crisis Investigation](https://powerbi.microsoft.com/en-us/blog/building-our-report-on-the-opioid-crisis-for-the-gartner-bakeoff/)
 	
 #### Additional Information
@@ -128,12 +128,14 @@ Resources are found according to each course module:
 
 ***
 ## Enabling Q&A for an On-premises Dataset
+#### Related Pluralsight Courses
+* [Leveraging Timely On-premises Data with Power BI](http://bit.ly/ps-timely-data) by Eugene Meidinger
+
 #### Additional Information
 * [Using Aggregations in Power BI Desktop](http://bit.ly/aggregations)
 * [Yahoo 24TB SSAS Big Data Case Study](http://bit.ly/yahoo-ssas)
 * [DirectQuery mode in Analysis Services](http://bit.ly/ssas-directquery)
 * [Using ProcessAdd in tabular models - SQLBI](http://bit.ly/ssas-tablular-processadd)
-* Pluralsight course: [Power BI Desktop: On-Premises Data Training](http://bit.ly/ps-timely-data) by Eugene Meidinger
 * [Dynamic Row Level Security with Analysis Services Tabular in Power BI](http://bit.ly/ssas-rls)
 * [Authentication with AS live connections in Power BI](http://bit.ly/adam-live-connect-auth)
 
