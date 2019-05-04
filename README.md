@@ -12,6 +12,7 @@ Resources are found according to each course module:
 * [Mining Data with Minimal Effort Using Quick Insights](#mining-data-with-minimal-effort-using-quick-insights)
 * [Voicing Questions Using Cortana](#voicing-questions-using-cortana)
 * [Enabling Q&A for an On-premises Dataset](#enabling-qa-for-an-on-premises-dataset)
+* [Migrating a Power BI Dataset to an SSAS Database](#migrating-a-power-bi-dataset-to-an-ssas-database)
 
 ***
 ## Simplifying Data Queries with Q&A
@@ -65,6 +66,7 @@ Resources are found according to each course module:
 #### Checklists
 * [Checklist for creating 'Tidy' views](https://gist.github.com/Jim-Kay/2758406ea7146bb7c5ad93f91002f721)
 * [Checklist for creating 'Polished' data models](https://gist.github.com/Jim-Kay/7e1d2037bd27cd17508bf7d49da89c1f)
+* [Really nice Checklist from Melissa Coates (@SQLChick)](https://dennyglee.com/2012/12/08/yahoo-24tb-ssas-big-data-case-study-slides/) (which I found after I made my checklist :)
 
 #### Additional Information
 * [View the Improvement Request](http://bit.ly/fix-default-summarization) to add an option to not automatically summarize table columns.
@@ -126,5 +128,17 @@ Resources are found according to each course module:
 
 ***
 ## Enabling Q&A for an On-premises Dataset
+#### Additional Information
+* [Using Aggregations in Power BI Desktop](http://bit.ly/aggregations)
+* [Yahoo 24TB SSAS Big Data Case Study](http://bit.ly/yahoo-ssas)
+* [DirectQuery mode in Analysis Services](http://bit.ly/ssas-directquery)
+* [Using ProcessAdd in tabular models - SQLBI](http://bit.ly/ssas-tablular-processadd)
+* Pluralsight course: [Power BI Desktop: On-Premises Data Training](http://bit.ly/ps-timely-data) by Eugene Meidinger
+* [Dynamic Row Level Security with Analysis Services Tabular in Power BI](http://bit.ly/ssas-rls)
+* [Authentication with AS live connections in Power BI](http://bit.ly/adam-live-connect-auth)
 
-
+***
+## Migrating a Power BI Dataset to an SSAS Database
+#### Additional Information
+* [Import Power BI Desktop Model to SSAS Tabular 2016](http://bit.ly/pbix-to-ssas)
+* [Finding the port for the Local SSAS or Power BI Instance](http://bit.ly/find-ssas-port)
