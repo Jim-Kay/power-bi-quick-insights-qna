@@ -2,7 +2,7 @@
 
 http://bit.ly/ps-qa
 
-This repository contains reference materials for the Pluralsight course [Effective Quick Insights and Q&amp;A in Power BI](https://pluralsight.com)
+This repository contains reference materials for the Pluralsight course [Effective Quick Insights and Q&amp;A in Power BI](https://app.pluralsight.com/library/courses/power-bi-quick-insights-qna/table-of-contents)
 
 Resources are found according to each course module:
 * [Simplifying Data Queries with Q&A](#simplifying-data-queries-with-qa)
